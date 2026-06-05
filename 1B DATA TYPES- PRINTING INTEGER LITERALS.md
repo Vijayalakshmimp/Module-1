@@ -4,26 +4,21 @@
 To write a Python program to print the following integer literals: 123, 456, 789.
 
 ## ALGORITHM  
-1. Begin the program.  
-2. Initialize the integer literals `123`, `456`, and `789`.  
-3. Use the `print()` function to display the numbers `123`, `456`, and `789`.  
+1. Begin the program.
+2. Accept an integer input from the user and store it in the variable men_stepped_on_the_moon.
+3. Use the print() function to display the value of men_stepped_on_the_moon.
 4. Terminate the program.
 
 ## PROGRAM
 ```python
-# Reg.No-
-# Name-
-# Write your code here
-
-num1 = 123
-num2 = 456
-num3 = 789
-
-print(num1)
-print(num2)
-print(num3)
+# Reg.No-212223090030
+# Name-Vijayalakshmi M P
+men_stepped_on_the_moon = int(input())
+print(men_stepped_on_the_moon)
 
 ```
 ## OUTPUT
+<img width="658" height="377" alt="image" src="https://github.com/user-attachments/assets/3ac93135-8406-415c-8088-a43b001ad0e0" />
 
 ## RESULT
+Thus, the python program to print the integer literals were executed successfully.
