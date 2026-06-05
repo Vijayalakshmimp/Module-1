@@ -1,4 +1,4 @@
-# Experiment No: 1e – SEB-Minimum of Three Numbers
+# Experiment No: 1e – SEB-bitwise Operator and or
 
 ## AIM  
 To Write a python program to perform bitwise and or on the given integer values.
